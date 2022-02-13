@@ -10,6 +10,14 @@
 # Marco Teorico
 
 
+# Obetivos
+## -Analizar los diferentes métodos que podemos utilizar para recopilar datos.
+Crear métodos para guardar la información recopilada en diferentes bases de datos.
+Crear métodos que nos permitan la comunicación entre bases de datos.
+
+
+
+
 
 
 ### Integrantes
