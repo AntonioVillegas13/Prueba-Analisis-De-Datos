@@ -1,1 +1,0 @@
-Escript en PYTHON
