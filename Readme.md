@@ -30,10 +30,3 @@ En el paso 6 consta de un mismo objetivo que es el de llegar a guardar la inform
 
 
 
-### Integrantes
-
-## Adrian Chicaiza
-## Alexander Tupiza
-## Jean Fuentes
-## Eduardo Farinango
-## Antonio Villegas
