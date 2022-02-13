@@ -31,10 +31,4 @@ En el paso 5 se realiza una recopilación de datos haciendo uso de una paquete l
 
 
 
-### Integrantes
 
-## Adrian Chicaiza
-## Alexander Tupiza
-## Jean Fuentes
-## Eduardo Farinango
-## Antonio Villegas
