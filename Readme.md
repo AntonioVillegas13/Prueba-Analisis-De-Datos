@@ -22,8 +22,9 @@
 ## Paso 1
 ## Paso 2
 ## Paso 3
-### *Facebook*
+### *Almacenar datos de una pagina web de Facebbok en CouchDB *
 ## Paso 4
+### *Almacenar datos de una pagina web de Facebbok en MongoDB *
 ## Paso 5
 ## Paso 6
 ## Paso 7
