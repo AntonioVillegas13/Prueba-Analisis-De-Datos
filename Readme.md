@@ -28,11 +28,15 @@
 ## Paso 7
 ## Paso 8
 ## Paso 9
+### *Conexión de CouchDB a MongoDB*
 ## Paso 10
+### *Conexión de MongoDB a CouchDB*
 ## Paso 11
 ## Paso 12
 ## Paso 13
+### *Conexión de MongoDB a MySQL*
 ## Paso 14
+### *Conexión de MySQL a MongoDB*
 ## Paso 15
 ## Paso 16
 
