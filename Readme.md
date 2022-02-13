@@ -30,6 +30,10 @@
 ####
 En el paso 5 se realiza una recopilación de datos haciendo uso de una paquete llamado tiktok-scraper, lo cual nos brinda tres documentos de la recopilación, como lo es un archivo Json, CSV y Zip, dado que el archivo necesario es el Json lo cual nos permite abrir el archivo con código Python, puesto que nos permite leer la información para poder cargar a la Base de Datos CouchDB, Sin embargo se utilizó código para la conexión y creación de la base de datos, Finalmente la ejecución del código es satisfactorio.
 ## Paso 6
+### *Conexión de TikTok a MongoDb*
+### <img src= "https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png" width="50">
+#### 
+En el paso 6 consta de un mismo objetivo que es el de llegar a guardar la información en una base de datos, lo que cambia es su conexión y la base, dado que ahora es con MongoDb, para hace se utilizó diferente librerías como pandas, numpy, json, entre otros, lo cual nos permitió leer el archivo Json que se genero al realizar el tiktok-scraper y guardarlo en un DataFrame, puesto que nos permite visualizar la información en filas y columnas, luego de eso se realizó su respectiva conexión con las credenciales personales y creación de la base de datos y su colección, Finalmente se generó una función que nos permite recorrer columnas del DataFrame colocando un formato para que se vaya guardando en una variable, como ultimo llamamos a la función y pasamos como parámetro al DataFrame, donde nos muestra la recopilación de datos que se guardara en la base MongoDB.
 ## Paso 7
 ## Paso 8
 ## Paso 9
