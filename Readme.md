@@ -22,9 +22,9 @@
 ## Paso 1
 ## Paso 2
 ## Paso 3
-### *Almacenar datos de una pagina web de Facebbok en CouchDB *
+Almacenar datos de una pagina web de Facebbok en CouchDB 
 ## Paso 4
-### *Almacenar datos de una pagina web de Facebbok en MongoDB *
+Almacenar datos de una pagina web de Facebbok en MongoDB 
 ## Paso 5
 ### *Conexión TikTok a CouchDB*
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Apache_CouchDB_logo.svg/1200px-Apache_CouchDB_logo.svg.png" width="50">
