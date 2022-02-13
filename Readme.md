@@ -19,27 +19,11 @@
 
 # Desarrollo
 
-## Paso 1
-## Paso 2
-## Paso 3
-## Paso 4
-## Paso 5
 ## Paso 6
-## Paso 7
-## Paso 8
-## Paso 9
-### *Conexión de CouchDB a MongoDB*
-## Paso 10
-### *Conexión de MongoDB a CouchDB*
-## Paso 11
-## Paso 12
-## Paso 13
-### *Conexión de MongoDB a MySQL*
-## Paso 14
-### *Conexión de MySQL a MongoDB*
-## Paso 15
-## Paso 16
-
+### *Conexión TikTok a MongoDB*
+### <img src="https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png" width="50">
+### 
+En el paso 6 consta de un mismo objetivo que es el de llegar a guardar la información en una base de datos, lo que cambia es su conexión y la base, dado que ahora es con MongoDb, para hace se utilizó diferente librerías como pandas, numpy, json, entre otros, lo cual nos permitió leer el archivo Json que se generó al realizar el tiktok-scraper y guardarlo en un DataFrame, puesto que nos permite visualizar la información en filas y columnas, luego de eso se realizó su respectiva conexión con las credenciales personales y creación de la base de datos y su colección, Finalmente se generó una función que nos permite recorrer columnas del DataFrame colocando un formato para que se vaya guardando en una variable, como ultimo llamamos a la función y pasamos como parámetro al DataFrame, donde nos muestra la recopilación de datos que se guardara en la base MongoDB.
 
 
 
