@@ -1,4 +1,4 @@
-# Recopilacion de datos:
+# Recopilacion de datos (Scraping):
 - Facebook
 - Twitter
 - Tiktok
