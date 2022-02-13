@@ -1,8 +1,8 @@
 # Recopilacion de datos:
-##Facebook
-##Twitter
-##Tiktok
-##Web
+- Facebook
+- Twitter
+- Tiktok
+- Web
 
 
 ### Integrantes
