@@ -25,6 +25,10 @@
 ### *Facebook*
 ## Paso 4
 ## Paso 5
+### *Conexión de TikTok a CouchDB*
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Apache_CouchDB_logo.svg/1200px-Apache_CouchDB_logo.svg.png" width="50">
+####
+En el paso 5 se realiza una recopilación de datos haciendo uso de una paquete llamado tiktok-scraper, lo cual nos brinda tres documentos de la recopilación, como lo es un archivo Json, CSV y Zip, dado que el archivo necesario es el Json lo cual nos permite abrir el archivo con código Python, puesto que nos permite leer la información para poder cargar a la Base de Datos CouchDB, Sin embargo se utilizó código para la conexión y creación de la base de datos, Finalmente la ejecución del código es satisfactorio.
 ## Paso 6
 ## Paso 7
 ## Paso 8
