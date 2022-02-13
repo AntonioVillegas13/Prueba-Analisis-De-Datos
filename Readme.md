@@ -19,26 +19,11 @@
 
 # Desarrollo
 
-## Paso 1
-## Paso 2
-## Paso 3
-## Paso 4
-## Paso 5
-## Paso 6
-## Paso 7
-## Paso 8
-## Paso 9
-### *Conexión de CouchDB a MongoDB*
-## Paso 10
-### *Conexión de MongoDB a CouchDB*
-## Paso 11
-## Paso 12
-## Paso 13
-### *Conexión de MongoDB a MySQL*
-## Paso 14
-### *Conexión de MySQL a MongoDB*
-## Paso 15
-## Paso 16
+# Paso 5
+### *Conexión TikTok a CouchDB*
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Apache_CouchDB_logo.svg/1200px-Apache_CouchDB_logo.svg.png" width="50">
+### 
+En el paso 5 se realiza una recopilación de datos haciendo uso de una paquete llamado tiktok-scraper, lo cual nos brinda tres documentos de la recopilación, como lo es un archivo Json, CSV y Zip, dado que el archivo necesario es el Json lo cual nos permite abrir el archivo con código Python, puesto que nos permite leer la información para poder cargar a la Base de Datos CouchDB, Sin embargo se utilizó código para la conexión y creación de la base de datos, Finalmente la ejecución del código es satisfactorio.
 
 
 
