@@ -3,7 +3,8 @@
 - Twitter
 - Tiktok
 - Web
-![Esta es una imagen](https://epnecuador-my.sharepoint.com/:i:/g/personal/eduardo_farinango_epn_edu_ec/EXuP0o8leDdOnCJGqzrzzXUBfgkPx09ckc5vWkaYaUBeoA?e=7ZEzsC)
+![Ruta](https://user-images.githubusercontent.com/75056800/153736293-a1fd5503-7b33-4446-99b9-385e4c9a7a31.png)
+
 
 
 
