@@ -40,7 +40,12 @@ En el paso 6 consta de un mismo objetivo que es el de llegar a guardar la inform
 ## Paso 9
 ### *Conexión de CouchDB a MongoDB*
 ## Paso 10
+
 ### *Conexión de MongoDB a CouchDB*
+Este paso se lo realiza con es uso de el lenguaje de programación Python que mediante el uso de librerias como Pandas,
+Numpy, y los respectivos drivers que nos permiten crear metodos para lograr una conexion entre MongoDB y CouchDB para asi realizar el paso de la información.
+[Paso 10 de MongoDB a CouchDB](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-10-de-MongoDB-a-CouchDB) - El codigo utilizado
+
 ## Paso 11
 ## Paso 12
 ## Paso 13
