@@ -22,3 +22,4 @@
 
 ## Paso 10
 ### *Conexión de MongoDB a CouchDB*
+Para poder ejecutar el [script](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/blob/Paso-10-de-MongoDB-a-CouchDB/couchdb2mongodb.ipynb) que permite la comunicación entre MongoDB y CouchDB debemos tomar en cuenta las intalaciones ya sean de [Python](https://www.python.org/) junto con Jupyter Lab o el IDE que les sea conveniente, tambien pueden instalar [Anaconda](https://www.anaconda.com/products/individual) que dentro de su paquete de instalación encontraremos lo necesario para iniciar con este proceso.
