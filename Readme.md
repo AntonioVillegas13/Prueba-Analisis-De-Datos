@@ -23,6 +23,7 @@ Una vez exportada la libreria Creamos nuestra conexión a CouchDB que esta en nu
 ![10a](https://user-images.githubusercontent.com/75056800/153835598-a0898ad6-7866-4ae5-ae79-17ad74c66cfb.png)
 
 Definimos los nombres de las bases de datos tanto de salida como de llegada tomando en cuenta que para MongoDB necesitamos un nombre de una colección.
+
 ![10b](https://user-images.githubusercontent.com/75056800/153835952-fa398160-3c4d-4c28-b753-833aaee4086c.png)
 
 Una vez confirmadas las conexiones procedemos a extraer los datos de la base de CouchDB le damos formato utilizando codigo de Python y la vamos guardando en MongoDb.
