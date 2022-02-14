@@ -19,40 +19,40 @@ Para poder ejecutar los scripts que permiten reallizar los procesos plateados an
 
 # Desarrollo
 
-## Paso 1
-## Paso 2
-## Paso 3
+## [Paso 1](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-1-Twitter-a-CouchDB)
+## [Paso 2](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-2-Twitter-MongoDB)
+## [Paso 3](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-3-Facebook-CouchDb)
 Almacenar datos de una pagina web de Facebbok en CouchDB 
-## Paso 4
+## [Paso 4](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-4-Facebook-MongoDb)
 Almacenar datos de una pagina web de Facebbok en MongoDB 
-## Paso 5
+## [Paso 5](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-5-TikTok-a-CouchDB)
 ### *Conexión TikTok a CouchDB*
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Apache_CouchDB_logo.svg/1200px-Apache_CouchDB_logo.svg.png" width="50">
 ### 
 En el paso 5 se realiza una recopilación de datos haciendo uso de una paquete llamado tiktok-scraper, lo cual nos brinda tres documentos de la recopilación, como lo es un archivo Json, CSV y Zip, dado que el archivo necesario es el Json lo cual nos permite abrir el archivo con código Python, puesto que nos permite leer la información para poder cargar a la Base de Datos CouchDB, Sin embargo se utilizó código para la conexión y creación de la base de datos, Finalmente la ejecución del código es satisfactorio.
-## Paso 6
+## [Paso 6](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-5-TikTok-a-CouchDB)
 ### *Conexión TikTok a MongoDB*
 ### <img src="https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png" width="50">
 ### 
 En el paso 6 consta de un mismo objetivo que es el de llegar a guardar la información en una base de datos, lo que cambia es su conexión y la base, dado que ahora es con MongoDb, para hace se utilizó diferente librerías como pandas, numpy, json, entre otros, lo cual nos permitió leer el archivo Json que se generó al realizar el tiktok-scraper y guardarlo en un DataFrame, puesto que nos permite visualizar la información en filas y columnas, luego de eso se realizó su respectiva conexión con las credenciales personales y creación de la base de datos y su colección, Finalmente se generó una función que nos permite recorrer columnas del DataFrame colocando un formato para que se vaya guardando en una variable, como ultimo llamamos a la función y pasamos como parámetro al DataFrame, donde nos muestra la recopilación de datos que se guardara en la base MongoDB.
-## Paso 7
-## Paso 8
-## Paso 9
+## [Paso 7](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-7-Web-Scraping-a-CouchDB)
+## [Paso 8](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-8-Web-Scraping-MongoDB)
+## [Paso 9](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-9-CouchDB-a-MongoDB)
 ### *Conexión de CouchDB a MongoDB*
 ## [Paso 10](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-10-de-MongoDB-a-CouchDB)
 
 ### *Conexión de MongoDB a CouchDB*
 
 
-## Paso 11
-## Paso 12
-## Paso 13
+## [Paso 11](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-11-CouchDB-a-MongoDB_ATLAS)
+## [Paso 12](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-12-MongoATLAS-a-CouchDB)
+## [Paso 13](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-13-MongoDB-a-MySQL)
 ### *Conexión de MongoDB a MySQL*
-## Paso 14
+## [Paso 14](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-14-de-MySQL-a-MongoDB)
 ### *Conexión de MySQL a MongoDB*
 #Datos
-## Paso 15
-## Paso 16
+## [Paso 15](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-15-MySQL-a-MongoDB)
+## [Paso 16](https://github.com/AntonioVillegas13/Prueba-Analisis-De-Datos/tree/Paso-16-MongoDB-a-MySQL)
 
 
 
@@ -62,8 +62,12 @@ En el paso 6 consta de un mismo objetivo que es el de llegar a guardar la inform
 
 ### Integrantes
 
-## Adrian Chicaiza
-## Alexander Tupiza
-## Jean Fuentes
-## Eduardo Farinango
-## Antonio Villegas
+ Adrian Chicaiza
+ 
+ Alexander Tupiza
+ 
+ Jean Fuentes
+ 
+ Eduardo Farinango
+ 
+ Antonio Villegas
